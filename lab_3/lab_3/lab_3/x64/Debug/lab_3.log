@@ -1,0 +1,4 @@
+﻿  lab_3.cpp
+C:\Users\lacke\source\repos\lab_3\lab_3\lab_3.cpp(129,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lacke\source\repos\lab_3\lab_3\lab_3.cpp(171,9): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "unsigned int *"
+  lab_3.vcxproj -> C:\Users\lacke\source\repos\lab_3\x64\Debug\lab_3.exe
